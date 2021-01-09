@@ -1,0 +1,45 @@
+body {
+  background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a860bb0-1d61-4ac2-b998-cc9196e003be/d31xa83-092a65a0-cbf1-4018-98a4-da8768920bf2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMmE4NjBiYjAtMWQ2MS00YWMyLWI5OTgtY2M5MTk2ZTAwM2JlXC9kMzF4YTgzLTA5MmE2NWEwLWNiZjEtNDAxOC05OGE0LWRhODc2ODkyMGJmMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.9Ogwxd6OvxvLYeaSnv7oGjaiAWFJqwdD5kY6NiAoZBM);
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  cursor: pointer;
+  position: absolute;
+  height: 150px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 700ms alternate;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    opacity: 0.0;
+    visibility: hidden;
+  }
+  to {
+    opacity: 1.0;
+    visibility: visible;
+  }
+}
