@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1640093108379,
-  "index": "/index.html",
+  "timestamp": 1640093576316,
+  "index": "/pokedex/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.67f40b1f17271bdd.js",
-        "/manifest.webmanifest",
-        "/polyfills.02b1622c246c7e3b.js",
-        "/runtime.43727e5fe7854787.js",
-        "/styles.04c0cc8d7f6a8c14.css"
+        "/pokedex/favicon.ico",
+        "/pokedex/index.html",
+        "/pokedex/main.67f40b1f17271bdd.js",
+        "/pokedex/manifest.webmanifest",
+        "/pokedex/polyfills.02b1622c246c7e3b.js",
+        "/pokedex/runtime.43727e5fe7854787.js",
+        "/pokedex/styles.04c0cc8d7f6a8c14.css"
       ],
       "patterns": []
     },
@@ -29,45 +29,45 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/deeppurple-amber.css",
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png",
-        "/assets/indigo-pink.css",
-        "/assets/not-found.png",
-        "/assets/pink-bluegrey.css",
-        "/assets/purple-green.css"
+        "/pokedex/assets/deeppurple-amber.css",
+        "/pokedex/assets/icons/icon-128x128.png",
+        "/pokedex/assets/icons/icon-144x144.png",
+        "/pokedex/assets/icons/icon-152x152.png",
+        "/pokedex/assets/icons/icon-192x192.png",
+        "/pokedex/assets/icons/icon-384x384.png",
+        "/pokedex/assets/icons/icon-512x512.png",
+        "/pokedex/assets/icons/icon-72x72.png",
+        "/pokedex/assets/icons/icon-96x96.png",
+        "/pokedex/assets/indigo-pink.css",
+        "/pokedex/assets/not-found.png",
+        "/pokedex/assets/pink-bluegrey.css",
+        "/pokedex/assets/purple-green.css"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/deeppurple-amber.css": "870c6e4c21c30da8dd3a3da667bac242c7c67d19",
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/assets/indigo-pink.css": "c1248c056a71c61b88a8f83a0858eb8e44724aa5",
-    "/assets/not-found.png": "84052d6f2fd0e2e5f9e36afd519b6e3cb9074f04",
-    "/assets/pink-bluegrey.css": "a5e01af8439f0c85c4409d906a860dda699c6427",
-    "/assets/purple-green.css": "e779d25d2ef95ea1aad4cb8ff56aa580ec77758c",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "8777d3e6e65f38cbea8c8e9dae71f1db951c5c0c",
-    "/main.67f40b1f17271bdd.js": "a0cd8c9a2bd621d661544851c27acc9abe3cdf25",
-    "/manifest.webmanifest": "2b3cb9698d8f8a7914f26f5388087dd00d870ac9",
-    "/polyfills.02b1622c246c7e3b.js": "7ab8bd461eae6a805f016c446ff438abef251838",
-    "/runtime.43727e5fe7854787.js": "b1339109f5e1ac98121a23506a8dc81597ae192e",
-    "/styles.04c0cc8d7f6a8c14.css": "1a7e04f7e93de0115d50def5b12bced9cd96c3d2"
+    "/pokedex/assets/deeppurple-amber.css": "870c6e4c21c30da8dd3a3da667bac242c7c67d19",
+    "/pokedex/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/pokedex/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/pokedex/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/pokedex/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/pokedex/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/pokedex/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/pokedex/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/pokedex/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/pokedex/assets/indigo-pink.css": "c1248c056a71c61b88a8f83a0858eb8e44724aa5",
+    "/pokedex/assets/not-found.png": "84052d6f2fd0e2e5f9e36afd519b6e3cb9074f04",
+    "/pokedex/assets/pink-bluegrey.css": "a5e01af8439f0c85c4409d906a860dda699c6427",
+    "/pokedex/assets/purple-green.css": "e779d25d2ef95ea1aad4cb8ff56aa580ec77758c",
+    "/pokedex/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/pokedex/index.html": "77e205ae5cb7bf1ef520f607a5660e1f6f4fdfcd",
+    "/pokedex/main.67f40b1f17271bdd.js": "a0cd8c9a2bd621d661544851c27acc9abe3cdf25",
+    "/pokedex/manifest.webmanifest": "2b3cb9698d8f8a7914f26f5388087dd00d870ac9",
+    "/pokedex/polyfills.02b1622c246c7e3b.js": "7ab8bd461eae6a805f016c446ff438abef251838",
+    "/pokedex/runtime.43727e5fe7854787.js": "b1339109f5e1ac98121a23506a8dc81597ae192e",
+    "/pokedex/styles.04c0cc8d7f6a8c14.css": "1a7e04f7e93de0115d50def5b12bced9cd96c3d2"
   },
   "navigationUrls": [
     {
