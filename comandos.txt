@@ -43,3 +43,4 @@ detalles de pokemons: `pokemon_v2_pokemonspecies_by_pk`
 cadenas de evolucion: `pokemon_v2_evolutionchain`
 tipo de pokemons: `pokemon_v2_pokemontypes`
 stats de un pokemon: `pokemon_v2_pokemonstats`
+asd
