@@ -1,0 +1,46 @@
+## comandos
+
+npx react-native init PokeGql --template react-native-template-typescript
+cd PokeGql
+npm install --save react-native-navigation
+npx rnn-link
+pod install --project-directory=ios
+
+npm install react-native-material-ui
+npm install @apollo/client graphql
+
+
+## links
+https://github.com/xotahal/react-native-material-ui
+https://wix.github.io/react-native-navigation/
+
+
+# graphql
+https://www.apollographql.com/docs/react/integrations/react-native/
+https://beta.pokeapi.co/graphql/console/
+
+#queries de prueba
+
+query getPokemon($limit: Int, $offset: Int) {
+  pokemons: pokemon_v2_pokemonspecies(
+    limit: 101,
+    offset: 50,
+    order_by: {id: asc}
+  ){
+    id
+    name
+  }
+  total_counter: pokemon_v2_pokemonspecies_aggregate{
+      aggregate{
+        count
+      }
+    }
+}
+
+#collecciones de queries necesarias para el proyecto:
+lista de pokemons: `pokemon_v2_pokemonspecies`
+detalles de pokemons: `pokemon_v2_pokemonspecies_by_pk`
+cadenas de evolucion: `pokemon_v2_evolutionchain`
+tipo de pokemons: `pokemon_v2_pokemontypes`
+stats de un pokemon: `pokemon_v2_pokemonstats`
+asd
