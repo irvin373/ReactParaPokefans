@@ -4,12 +4,15 @@
 name: Node.js CI
 
 on:
+  push:
+    branches:
+        - 'main'
+        - 'develop'
   pull_request_target:
     types: [opened, synchronize, labeled, unlabeled, reopened]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
